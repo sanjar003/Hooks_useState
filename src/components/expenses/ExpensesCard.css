@@ -1,0 +1,22 @@
+.ContainerExpensesCArd{
+    display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.ul{
+    list-style: none;
+}
+.Licontainer{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 90px;
+}
+li{
+    font-size: 23px;
+}
